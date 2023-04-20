@@ -1,0 +1,3 @@
+[submodule "Projects/promptStack/Flowis"]
+	path = Projects/promptStack/Flowis
+	url = https://github.com/FlowiseAI/Flowise
